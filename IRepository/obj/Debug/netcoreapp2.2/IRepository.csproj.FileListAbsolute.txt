@@ -1,0 +1,9 @@
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\bin\Debug\netcoreapp2.2\IRepository.deps.json
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\bin\Debug\netcoreapp2.2\IRepository.dll
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\bin\Debug\netcoreapp2.2\IRepository.pdb
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\obj\Debug\netcoreapp2.2\IRepository.csprojAssemblyReference.cache
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\obj\Debug\netcoreapp2.2\IRepository.csproj.CoreCompileInputs.cache
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\obj\Debug\netcoreapp2.2\IRepository.AssemblyInfoInputs.cache
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\obj\Debug\netcoreapp2.2\IRepository.AssemblyInfo.cs
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\obj\Debug\netcoreapp2.2\IRepository.dll
+D:\个人项目\吉他网站Core版本\BestGuitarWeb\IRepository\obj\Debug\netcoreapp2.2\IRepository.pdb
